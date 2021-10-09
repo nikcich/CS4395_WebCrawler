@@ -1,0 +1,183 @@
+Kawasaki Versys 650
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+This article needs to be updated. Please help update this article to reflect recent events or newly available information. (August 2016)
+Kawasaki Versys 650
+2020 Kawasaki Versys 650 LT, with rear saddlebags and handguards
+Manufacturer Kawasaki Motorcycle & Engine Company
+Parent company Kawasaki Heavy Industries
+Production 2007–present
+Predecessor Kawasaki KLE500
+Class Standard or adventure touring crossover
+Engine 649 cc (39.6 cu in) liquid-cooled 4-stroke 8-valve DOHC parallel-twin
+Bore / stroke 83 mm × 60 mm (3.3 in × 2.4 in)
+Compression ratio 10.6:1
+Power 67 hp (50 kW) @ 8,400 rpm[1]
+Torque 42 lb⋅ft (57 N⋅m)[1]
+Transmission 6-speed constant mesh
+Suspension Front: 41 mm (1.6 in) telescopic fork with adjustable rebound and preload, 150 mm (5.9 in) travel
+Rear: Single offset laydown shock with adjustable rebound and spring preload, 145 mm (5.7 in) travel
+Brakes Front: Dual-piston caliper with dual 300 mm (11.8 in) discs
+Rear: Dual-piston caliper with single 220 mm (8.7 in) disc
+Tyres Front: 120/70-17
+Rear: 160/60-17
+Rake, trail 25 degrees, 108 mm (4.3 in)
+Wheelbase 1,415 mm (55.7 in)[2]
+Dimensions L: 2,125 mm (83.7 in)[2]
+W: 840 mm (33 in)[2]
+H: 1,330 mm (52 in)[2]
+Seat height 845 mm (33.3 in)[2]
+Weight 206 kg (454 lb)[1] (wet)
+Fuel capacity 19 L (4.2 imp gal; 5.0 US gal)[2]
+Fuel consumption 4.5 L/100 km (63 mpg‑imp; 52 mpg‑US)[2]
+Related Kawasaki Ninja 650R
+The Kawasaki Versys 650 (codenamed KLE650) is a middleweight motorcycle. It borrows design elements from dual-sport bikes, standards, adventure tourers and sport bikes; sharing characteristics of all, but not neatly fitting into any of those categories.[3] The name Versys is a portmanteau of the words versatile and system.[4] It was introduced by Kawasaki to the European and Canadian markets as a 2007 model and to the US market in 2008.[5] A California emissions compliant version was released in 2009.[6][7] In 2010 new styling was applied to the headlight and farings and several functional changes made including enlarged mirrors and improved rubber engine mounts.[8] In 2015, a new model was introduced with a new fairing style that abandoned the older, stacked headlights for the more conventional twin headlight style commonly found on sportbikes.[9]
+Contents
+1 Technical details
+2 Local variants
+3 Reception
+4 References
+5 External links
+Technical details[edit]
+The Versys is based on the same platform as Kawasaki's other 650cc twin motorcycles, the Ninja 650R and the ER-6n. It shares the same electronics, engine, wheels, brakes and main frame as its siblings. Where it differs is in riding position, rear sub frame, suspension components, and engine tuning.[2]
+The Versys' 650 cc liquid cooled, four-stroke, parallel-twin engine has been retuned for more bottom-end and mid-range torque. This is achieved with different camshafts and fuel injection mapping. These changes cause peak torque to occur at a lower engine speed and provide better throttle response in the 3,000 to 6,000 rpm range. In addition a balance tube has been added between the exhaust headers to smooth out power delivery. Power is 68 hp (51 kW) at 8,500 rpm, compared with the Ninja's 67 hp (50 kW) at 8,000 rpm.[1] Torque is 47.2 lb⋅ft (64.0 N⋅m), compared with the Ninja's 48.45 lb⋅ft (65.69 N⋅m).[1] Improving the engine's low and mid range response comes at the expense of a slight reduction in peak power however. A similar approach was recently deployed by Honda with their CBF1000 model. The engine uses a 180 degree crankshaft. This in turn requires an uneven firing interval (180 degrees, 540 degrees) which gives the engine note a distinctive "throbbing" sound at idle.[2]
+The suspension has greater vertical travel and more adjustability than the suspension on the Versys 650 siblings. On the front thicker/stiffer 41 mm inverted telescopic forks are externally adjustable for preload and rebound damping. The right fork leg carries a damping cartridge while both legs contain springs. The rear shock absorber is adjustable for rebound damping. Suspension preload is adjustable in the rear via a screw collar on the shock. 2015+ models have an external adjuster. The rear shock/spring is directly connected, without linkages, to a non symmetrical, gull wing, aluminium swing arm instead of the more basic steel swing arm used on the Ninja and ER-6.[2]
+Local variants[edit]
+In Australia, the Learner Approved Motorcycle Scheme (LAMS) is in place for riders on a restricted license during the first period after passing their motorbike test. For this market the Versys 650L is manufactured and sold with output power restrictions put into place using a custom program on the ECU and a screw installed near the throttle wheel on the right-side of the bike which prevents it from fully rotating. The specifications for the Australian LAMS and non-LAMS variants for the 2017 model year are below, but the different RPM measurements should also be noted:[10][11]
+Model KLE650 (KLE650FHF) KLE650L (KLE650FHFW)
+Power 51 kW @ 8,500 rpm 41.3 kW @ 8,000 rpm
+Torque 64 N.m @ 7,000 55 n.m @ 5,500 rpm
+In addition to the above differences, Australia marketed Versys 650 and 650L are sold with a fuel capacity of 21 L and have a curb mass of 216 kg (wet) for both the 650L and 650.
+Reception[edit]
+The Versys was reviewed by motorcycling media and received the following notable reactions.
+2008 Motorcycle of the Year Award by Motorcyclist Magazine.[12]
+2008 Best in Class "Allrounder class" award by Motor Cycle News.[13]
+2015 Comparison Winner: Kawasaki Versys 650 LT vs. Suzuki V-Strom 650XT by Motorcyclist Magazine. [14]
+References[edit]
+^
+a b c d e Brissette, Pete (8 January 2008). "2008 Kawasaki Versys Road Test". Motorcycle.com. Retrieved 1 July 2011.
+^
+a b c d e f g h i j White, G. (8 December 2011). "2012 Kawasaki Versys 650 Specifications". Kawasaki.ca. Archived from the original on March 30, 2012. Retrieved 8 December 2011.
+^ "2010 Kawasaki Versys Review". Motorcycle.com. Retrieved 26 May 2010.
+^ "2008 Kawasaki VersysTM Q & A with Product Manager Karl Edmondson" (PDF). Kawasaki. Archived from the original (PDF) on 16 July 2011. Retrieved 29 August 2010.
+^ "2008 Kawasaki Versys - First Look". MotorcycleUSA.com. Retrieved 29 August 2010.
+^ Cobb, Jeff (26 May 2010). "2010 Kawasaki Versys Review: A Swiss Army knife among street motorcycles". motorcycle.com. Retrieved 29 August 2010.
+^ "Living With Versys-tility". webBikeWorld. Retrieved 29 August 2010.
+^ "2010 Kawasaki Versys Review". topspeed.com.
+^ "2015 KAWASAKI VERSYS – FIRST LOOK". cycleworld.com.
+^ "2017 Versys 650 | Kawasaki Motors Australia". kawasaki.com.au. Retrieved 2017-10-20.
+^ "2017 Versys 650L | Kawasaki Motors Australia". kawasaki.com.au. Retrieved 2017-10-20.
+^ "Mag names Versys MC of the year". LondonBikers. 2008-12-02. Archived from the original on 2009-01-03. Retrieved 2008-12-03.
+^ Cashman, Garret (2008-12-02). "Kawasaki Versys Wins Prestigious Award". LondonBikers. Archived from the original on 2008-12-05. Retrieved 2008-12-03.
+^ "2015 Comparison: Kawasaki Versys 650 LT vs. Suzuki V-Strom 650XT". Motorcyclist. 2015-10-27. Retrieved 2015-04-21.
+External links[edit]
+Official website
+hide
+vte
+« previous - Kawasaki motorcycle timeline, 1990–present
+Year
+Type
+1990s 2000s 2010s
+0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
+Naked/Adventure touring W175
+Estrella W250
+W650 W800 W800
+Versys-X 250
+Versys-X 300
+KLE500 Versys 650
+Versys 1000
+Z125 PRO
+Z125
+Z250SL
+Z250
+Z300 Z400
+ER-5 Ninja 650/ER-6f/ER-6n Ninja 650/Z650
+ZR750 Zephyr ZR-7 Z750 Z800 Z900
+Z900RS
+Zephyr 400/550/1100 Z1000
+ZRX1100 ZRX1200R
+Dual-sport KL250 Super Sherpa
+KLR250 KLX250S
+KLX450R
+KLR650
+Sport Ninja 125
+Ninja 250SL
+Ninja 250R
+Ninja 400 Ninja 300 Ninja 400
+Ninja ZX-2R/Ninja ZXR250
+ZXR400
+EX500/GPZ500/Ninja 500
+ZX600C-E/Ninja ZX-6 ZX600F-J/Ninja ZX-6R
+Ninja ZX750F
+ZXR750/Ninja ZX-7R
+GPZ900R Ninja 1000
+ZX900/Ninja ZX-9R Ninja ZX-10R
+Ninja H2/H2R
+ZX-10 Tomcat Ninja ZX-12R
+Sport touring ZZR600
+GPZ1100/ZX1100E
+ZZR1100C/Ninja ZX-11C ZZR1100D/Ninja ZX-11D ZZR1200/ZX-12C ZZR1400/Ninja ZX-14
+Ninja H2 SX
+Touring GTR1000/Concours 1400GTR/Concours 14
+Cruiser EL250 EL125/Eliminator
+454 LTD Vulcan VN500C
+Vulcan EN500A
+Vulcan S
+Vulcan VN750
+Vulcan VN800A/Vulcan Classic VN800B
+Vulcan VN900 Classic/VN900B
+Vulcan 800/1500 Drifter
+Vulcan VN1500
+Vulcan VN1600 Vulcan VN1700
+Vulcan VN2000
+MotoGP Ninja ZX-RR
+Categories: Kawasaki motorcyclesMotorcycles introduced in 2007Standard motorcyclesMotorcycles powered by straight-twin engines
+Not logged in
+Talk
+Contributions
+Create account
+Log in
+Article
+Talk
+Read
+Edit
+View history
+Search
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Donate
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Tools
+What links here
+Related changes
+Special pages
+Permanent link
+Page information
+Cite this page
+Wikidata item
+Print/export
+Download as PDF
+Printable version
+Languages
+Polski
+Edit links
+This page was last edited on 7 July 2021, at 16:14 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Mobile view
+Developers
+Statistics
+Cookie statement

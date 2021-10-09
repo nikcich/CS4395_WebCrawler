@@ -1,0 +1,169 @@
+Photograph a historic site, help Wikipedia, and win a prize. Participate in the world's largest photography competition this month!
+Learn more
+Kawasaki KX450F
+From Wikipedia, the free encyclopedia
+  (Redirected from Kawasaki KLX450R)
+Jump to navigation
+Jump to search
+hide
+This article has multiple issues. Please help to improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+This article needs additional citations for verification.
+(August 2021)
+This article possibly contains original research. (August 2021)
+Kawasaki KX450F
+Manufacturer Kawasaki
+Class Motocross
+Engine 449 cc (27.4 cu in) liquid-cooled DOHC four-valve four-stroke single, fuel injected
+Bore / stroke 96.0 x 62.1mm
+Compression ratio 12:8:1
+Ignition type Digital DC-CDI
+Transmission Five-speed with wet multi-disc manual clutch
+Frame type Aluminum perimeter
+Brakes F: Single semi-floating 270mm petal disc with dual piston caliper
+R: Single 240mm petal disc with single-piston caliper
+Wheelbase 58.1 in (1,480 mm)
+Dimensions L: 86.4 in (2,190 mm)
+W: 32.3 in (820 mm)
+H: 50.8 in (1,290 mm)
+Seat height 37.8 in (960 mm)
+Fuel capacity 1.66 gal.
+The Kawasaki KX 450F is a liquid-cooled DOHC 449 cc (27.4 cu in) four-valve four-stroke single motocross motorcycle made by Kawasaki.
+Since 2007, it has also come in the KLX450R versions, which has added conveniences that make it more suitable for trail riding, green laning, enduro events, and lower speed riding in general. This is due to the larger gas tank, 18 inch rear wheel, headlamp, and electric start, and a retuned engine that has less peak horsepower in favor of easier handling from more lower end torque delivered more smoothly.[1][2]
+Contents
+1 First Generation 2005-2008
+2 Second Generation 2009-2011
+3 Third Generation 2012-2015
+4 Fourth Generation 2016-2018
+5 Fifth Generation 2019-Present
+6 See also
+7 References
+8 External links
+First Generation 2005-2008[edit]
+Unlike the Kawasaki KX250F, the KX450F was not co-developed under joint-venture with the Suzuki Motor Co. and differed greatly from Suzuki's 450cc offering. The first year of the KX450F was 2005, but the machine suffered catastrophic frame failure during the Japanese MX season. As a result, plans for a 2005 retail version were postponed and the KX450F debuted as a 2006 model in most markets.
+Initial reviews of the KX450F were tepid, citing a positive response to the engine and power delivery, but finding the suspension and geometry of the bike unsatisfactory. Reviewers also took exception to the choice of a 4-speed transmission, as Kawasaki chose to break from the industry standard by not to include a fifth gear.
+Despite these perceived shortcomings, the 2006 Kawasaki KX450F would win both the AMA World Supercross GP title and the BooKoo Arenacross title, as well as the Hare and Hound title.
+For 2007, the KX450F received a series of minor engine and frame refinements, but the most notable upgrade was a 5-speed transmission. The transmission received a slightly taller 1st gear, while second through fourth remained the same and the fifth added.
+Second Generation 2009-2011[edit]
+The next major innovation would be in 2009, as Kawasaki introduced fuel injection. Reviewers raved of the performance effect of the new injectors, and in proceeding years the technology would spread across the KX lineup.
+Third Generation 2012-2015[edit]
+A series of major revisions came in 2012. The KX450F received an all new frame, significant engine modifications and a new electronics set that included Launch Control. Launch Control is designed to prevent wheel-spin at take off, and automatically disengages once third gear is reached. It is activated by holding a switch until an indicator light glows green, at which point the bikes computer modifies acceleration factors. Kawasaki has continued to insist since inception (for safety reasons) that this system is not traction control but a unique system onto itself.
+These later models allow for extensive customization of the ECU using Kawasaki's optional software system, as well as including a Digital Fuel Injection (DFI) coupler system. DFI couplers allow for immediate trackside changes to the ECU through the simple change of a plug-and-play module. Kawasaki provides three modules with new bikes, a Green (standard mapping), White (soft track conditions mapping) and Black (hard track conditions mapping).
+Fourth Generation 2016-2018[edit]
+The 2016 KX450F is a new redesign from 2015, including significant changes to the engine, chassis and throttle body.
+Fifth Generation 2019-Present[edit]
+In 2019, Kawasaki dropped the F from the name. The 2019 KX450 is an all-new design, which includes electric start and eliminates the kick starter. The fork was switched from an air fork to a coil-based Showa fork, leveraging A-Kit technology.
+See also[edit]
+Kawasaki KX250F
+References[edit]
+^ "Best Enduro Bike: Kawasaki KLX450R". Cycle World. Retrieved 1 February 2019.
+^ https://www.dirtrider.com/tests/off-road-bikes/141_0903_2009_kawasaki_klx450r_web_test/
+External links[edit]
+New KX450 Specialist Motocross Race Model Launched - Bringing Together Advanced Technologies Developed on the Racetrack Jun. 12, 2018
+hide
+vte
+« previous - Kawasaki motorcycle timeline, 1990–present
+Year
+Type
+1990s 2000s 2010s
+0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
+Naked/Adventure touring W175
+Estrella W250
+W650 W800 W800
+Versys-X 250
+Versys-X 300
+KLE500 Versys 650
+Versys 1000
+Z125 PRO
+Z125
+Z250SL
+Z250
+Z300 Z400
+ER-5 Ninja 650/ER-6f/ER-6n Ninja 650/Z650
+ZR750 Zephyr ZR-7 Z750 Z800 Z900
+Z900RS
+Zephyr 400/550/1100 Z1000
+ZRX1100 ZRX1200R
+Dual-sport KL250 Super Sherpa
+KLR250 KLX250S
+KLX450R
+KLR650
+Sport Ninja 125
+Ninja 250SL
+Ninja 250R
+Ninja 400 Ninja 300 Ninja 400
+Ninja ZX-2R/Ninja ZXR250
+ZXR400
+EX500/GPZ500/Ninja 500
+ZX600C-E/Ninja ZX-6 ZX600F-J/Ninja ZX-6R
+Ninja ZX750F
+ZXR750/Ninja ZX-7R
+GPZ900R Ninja 1000
+ZX900/Ninja ZX-9R Ninja ZX-10R
+Ninja H2/H2R
+ZX-10 Tomcat Ninja ZX-12R
+Sport touring ZZR600
+GPZ1100/ZX1100E
+ZZR1100C/Ninja ZX-11C ZZR1100D/Ninja ZX-11D ZZR1200/ZX-12C ZZR1400/Ninja ZX-14
+Ninja H2 SX
+Touring GTR1000/Concours 1400GTR/Concours 14
+Cruiser EL250 EL125/Eliminator
+454 LTD Vulcan VN500C
+Vulcan EN500A
+Vulcan S
+Vulcan VN750
+Vulcan VN800A/Vulcan Classic VN800B
+Vulcan VN900 Classic/VN900B
+Vulcan 800/1500 Drifter
+Vulcan VN1500
+Vulcan VN1600 Vulcan VN1700
+Vulcan VN2000
+MotoGP Ninja ZX-RR
+Categories: Kawasaki motorcyclesOff-road motorcyclesMotorcycles introduced in 2005
+Not logged in
+Talk
+Contributions
+Create account
+Log in
+Article
+Talk
+Read
+Edit
+View history
+Search
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Donate
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Tools
+What links here
+Related changes
+Special pages
+Permanent link
+Page information
+Cite this page
+Wikidata item
+Print/export
+Download as PDF
+Printable version
+Languages
+Italiano
+Edit links
+This page was last edited on 15 August 2021, at 17:33 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Mobile view
+Developers
+Statistics
+Cookie statement

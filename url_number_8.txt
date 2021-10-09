@@ -1,0 +1,154 @@
+Kawasaki W series
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+Kawasaki W1, W2, W3
+Kawasaki W1SS, a two-carburetor offshoot of the original W1 with the brake pedal on left side
+Manufacturer Kawasaki Aircraft Industries, later Kawasaki Motorcycle & Engine Company
+Also called Meguro X-650, Kawasaki 650 Commander, Kawasaki RS650 [1]
+Parent company Kawasaki Heavy Industries
+Production 1965—1974 [2][3]
+Assembly Akashi City, Hyogo Prefecture, Japan [4]
+Predecessor Meguro K1, Kawasaki K2 [5]
+Successor Kawasaki W650
+Class Standard
+Engine 624 cm3 (38.1 cu in) 4-stroke, inline 2-cylinder, air-cooled, OHV[5]
+Bore / stroke 74.0 mm × 72.6 mm (2.91 in × 2.86 in) [5]
+Compression ratio W1 8.7:1
+W2 9.0:1 [3]
+Top speed W1 180 km/h (110 mph)
+W2 185 km/h (115 mph) [3]
+Power W1 50 PS (37 kW; 49 hp) @ 6500 rpm
+W2 53 PS (39 kW; 52 hp) @ 7000 rpm [3]
+Ignition type Battery ignition [5]
+Transmission Manual 4-speed [5]
+Frame type Steel tube duplex cradle [5]
+Suspension F: Telescopic, R: Swing arm [5]
+Brakes F: Mechanical drum, double 2 leading
+R: Mechanical drum, leading trailing [5]
+Tires F: 3.25-18, R: 3.50-18 [6]
+Wheelbase 1,415 mm (55.7 in) [5]
+Dimensions L: 2,126 mm (83.7 in)
+W: 880 mm (35 in)
+H: 1,060 mm (42 in) [5]
+Weight 181 kg (399 lb) [5] (dry)
+Fuel capacity 15 L (3.3 imp gal; 4.0 US gal) [5]
+Oil capacity 3 L (3.2 US qt) [3]
+The Kawasaki W series is a line of motorcycles made by Kawasaki since 1965 that shares some characteristics of classic British vertical-twin standard motorcycles. Sold as a 1966 model in the North American market, the first Kawasaki W1 had the largest engine displacement of any model manufactured in Japan at the time.[5][7][8] Kawasaki continued to build models of the W brand similar to the W1 which will go out of production, ending with a "final edition".[9][10][11]
+Contents
+1 Antecedents: Meguro K series
+1.1 Design
+1.2 Competition
+2 Descendants: Kawasaki W brand
+3 References
+4 External links
+Antecedents: Meguro K series[edit]
+In 1960 the Akashi-based Kawasaki Aircraft Company acquired an interest in the Meguro motorcycle company, which had obtained a license to produce a copy of the 500 cc BSA A7. Meguro had been Japan's largest motorcycle manufacturer but in the late 1950s its models had become less competitive and it was short of money. Kawasaki's investment enabled Meguro to launch its A7 copy as the Meguro K.[12][13]
+The BSA A7, Meguro K and their respective derivatives have an overhead valve (i.e., pushrod) straight-twin engine with a pre-unit construction architecture. All have a 360° crankshaft angle, which provides an even firing interval between the two cylinders but high vibration caused by the two pistons rising and falling together.[14]
+In 1963 Meguro was taken over one hundred percent by the new Kawasaki Motorcycle Corporation, which maintained the licensing agreement with BSA and continued to build the K model, but due to lubrication problems Kawasaki made engine modifications and the Kawasaki K2 entered production in 1965 with improved crankshaft bearings and a larger oil pump. Since the introduction of the K2, the Meguro K model has tended to become known retrospectively as the K1.[15]
+The K2 has a larger timing cover which distinguishes it from the model K and the BSA A7. Also the K2 chassis has a different rear subframe, fuel tank and side panels. These changes gave the K2 a typically conservative Meguro image, dissimilar to the original BSA A7.
+In 1965 the K2 was enlarged to 624 cc to become the Meguro X-650 prototype, which was displayed at the 1965 Tokyo Motor Show. The X-650 then became in turn the prototype for the Kawasaki W1.[2] For the new Kawasaki big bike, the traditional look of Meguro motorcycles was replaced with a sleeker fuel tank, sportier mudguards (fenders) and other details intended to appeal to export markets, especially North America.[1][16]
+The Society of Automotive Engineers of Japan (in Japanese), includes the 1966 Kawasaki 650-W1 as one of their 240 Landmarks of Japanese Automotive Technology.[5]
+Design[edit]
+1960s BSA A10 Super Rocket
+The Kawasaki W1 is based heavily on the post-war, pre-unit construction, 650cc vertical-twin BSA A7 design inherited from Meguro, but as time passed, the Kawasaki and BSA designs diverged.[14] The BSA A10 (aka Rocket) engine is an undersquare design with a 73 mm (2.9 in) bore and an 84 mm (3.3 in) stroke, whereas the W1 inherited its 72.6 mm (2.86 in) stroke from the K2 engine, adding displacement by increasing the size of its bore to 74 mm (2.9 in). This slightly oversquare (i.e., short-stroke) design favors higher engine speeds, while reducing stresses on the crankshaft. In addition, the new W1 had a one-piece pressed crankshaft assembly with ball bearings and one-piece connecting rods with needle bearings, significant improvements over the earlier BSA (and Meguro) engines that used plain insert type bearings and two-piece connecting rods. Even though the BSA and Kawasaki 650cc engines were mechanically different from each other, visually they gave very much the same impression.[17]
+Likewise, in the design of its twin-loop frame, as well as its overall styling, the W1 motorcycle was clearly influenced by classic British road bikes, including shifting with the right foot and braking with the left. From 1966 to 1968 W1 engines were built with a single 31 mm Mikuni carburetor (this is only feasible in a straight-twin with a 360° crankshaft angle). Starting in 1968, the W1SS with two 28 mm Mikuni carbs took the place of the original W1. Also in 1968, the W2 (aka Commander) emerged. The W2SS was a restyled W1SS with slightly more horsepower, and the W2TT was a high-pipe version with twin mufflers on the left side. Due to flat sales in North America the W2TT was discontinued in 1969, the W2SS ended in 1970, and finally in 1971 Kawasaki axed the W1SS.[6][18]
+The 650 remained popular in Japan, and although some were exported to Europe in the 70s, subsequent models were produced primarily for the domestic market. The penultimate model in the W series was the W1SA with stylistic changes, but most importantly with the gearshift lever on the left side and the rear brake pedal on the right side, which is the standard configuration for Japanese motorcycles. The final version was the 1973 W3 model (aka RS650) with upgraded suspension as well as twin disc brakes in front. W series production ceased in 1974.[3][19][20]
+Competition[edit]
+As soon as the W1 was released, Kawasaki realized that even an improved version of the BSA A10 (itself already discontinued) was at a disadvantage against the newer and faster unit construction British twins, the BSA Spitfire and the Triumph Bonneville T120. The W1 also had to compete with other Japanese twin-cylinder street bikes, such as the Suzuki T500 and the Honda CB450. If the W1 was seen as being behind the times, then Kawasaki came back with a two-stroke engine that was clearly ahead of its time, the 1967 A7 Avenger with performance at least equal to the W1. The following year the W series (as well as the British bikes) faced a new competitor in a state-of-the-art twin from Yamaha, the XS650.[13]
+In 1968 the domination of the inline-twin engine for high-performance street bikes came to an end when Triumph Engineering developed an inline-triple engine for the BSA Rocket 3/Triumph Trident. The 1969 Kawasaki H1 Mach III with an inline-triple two-stroke, and the Honda CB750's Inline-four engine into the bargain, foreshadowed the ascendancy of multi-cylinder engines. The W series engines were oil-tight and reliable, but by comparison they had low levels of performance with high levels of vibration, and were ultimately unsuccessful on the sales floor. At the same time that production of the W series was ending in Japan, Kawasaki came up with a formula for successful four-stroke street bikes in its Z series.[3][14]
+Descendants: Kawasaki W brand[edit]
+Main articles: Kawasaki W650, Kawasaki W800, and Kawasaki W175
+Kawasaki retro style motorcycles began with the Zephyr range, available in Japan as a 400 cc model.[21][22] These retro-bikes evoked nostalgia for classic motorcycles from decades earlier,[23] inspired by the Z series inline-fours from the 1970s. By the late 1990s successors to the Zephyrs were based on even older generations of motorcycles with twin-cylinder engines, the V-twin engined Drifter and the vertical-twin W650. Unlike the 1960s W series, the 1999-2007 W650 had an up-to-date engine design while holding on to the vintage British motorcycle look.[24] The 2011-2013 W800 carries on with the W brand, and expands the range to include Café racer models.[25][26]
+At 2017, a smaller Kawasaki W175 was introduced in Indonesian for South East Asian market thus becoming the lightest bike in the series.
+References[edit]
+^
+a b "Kawasaki W1 to W3". Kawasaki motorbikes a pictorial story. www.jarlef.no. Retrieved 1 August 2013.
+^
+a b "About the Company". Kawasaki Motorcycle & Engine Company. Kawasaki Heavy Industries, Ltd. Retrieved 2 August 2013.
+^
+a b c d e f g Scheibe, Winni. "Kawasaki W1". Classic Motorrad (in German). www.classic-motorrad.de. Archived from the original on 8 July 2013. Retrieved 2 August 2013.
+^ "Akashi Works". Kawasaki Motorcycle & Engine Company. Kawasaki Heavy Industries, Ltd. Retrieved 2 August 2013.
+^
+a b c d e f g h i j k l m n "Kawasaki 650-W1". 240 Landmarks of Japanese Automotive Technology. Society of Automotive Engineers of Japan, Inc. Retrieved 1 August 2013. The 650-W1, which had the largest displacement of any Japanese motorcycle at that time, was intended as Japan's strategic entry into competition with the world's top-class machines from British makers.
+^
+a b "Kawasaki Motorcycle Identification Guide". Classicjapcycles.com. p. 4. Retrieved 6 August 2013.
+^ "Historic roots: Kawasaki's original W". Kawasaki Motorcycle & Engine Company. Kawasaki Heavy Industries, Ltd. Retrieved 1 August 2013.
+^ Salvadori, Clement (September 2011). "Retrospective: Meguro Junior S3 250: 1957 – 1958". Rider. Archived from the original on 14 December 2013. Retrieved 3 August 2013. Meguro was also producing the biggest-bore motorcycles in Japan, 500 and 650 twins that copied British engineering, and a deal was struck in 1961, with Kawasaki gradually absorbing Meguro.
+^ "Farewell to the Kawasaki W800". Cycle World. Retrieved 2017-04-18.
+^ "W800". Kawasaki Motorcycle & Engine Company. Kawasaki Heavy Industries, Ltd. Retrieved 1 August 2013. The W800, in both looks and feel, pays homage to Kawasaki’s legendary W1, the model that started a brand that spans 45 years.
+^ "Kawasaki's W800 retro bike is here in time for Christmas". News. Kawasaki Motors South Africa. Archived from the original on 1 August 2013. Retrieved 1 August 2013. The Kawasaki W800 is recognisably a descendent of the Kawasaki W1 of 1967 that was in turn a licensed copy of the famous 500cc BSA A7 that dated back to 1946.
+^ "1999 Kawasaki W 650". Just Bikes. 28 April 2011. Retrieved 3 August 2013. The first new 'W 650' debuted in 1999, looking little different from its 1960s predecessor. The overall design was arguably even more 'British' than the original W1, looking like a modern Triumph Bonneville, even though the W 650 predated the release of the new Bonnie by a couple of years.
+^
+a b Falcone (25 March 2008). "Die W650-Ahnengalerie Meguro/Kawasaki". Datenbank W650/W800 (in German). Homepagemodules.de. Retrieved 2 August 2013.
+^
+a b c Brown, Roland (November–December 2005). "Kawasaki W2TT Commander". Motorcycle Classics. Retrieved 2 August 2013. The 624cc engine’s Y-shaped right engine cover was larger than the BSA’s equivalent, hinting at numerous internal differences.
+^ "Vintage Kawasaki Motorcycle Photos & History". TheWorldOfMotorcycles.com. Archived from the original on 30 May 2011. Retrieved 1 August 2013. In the early model years, Kawasaki used a mirrored 'M,' or 'MW' on its tank badge, indicating 'Meguro Works.'
+^ "Motorcycle Museum". Corporate Kawasaki. Canadian Kawasaki Motors Inc. Retrieved 2 August 2013.
+^ Scheibe, Winni. "Kawasaki W650". Classic Motorrad (in German). www.classic-motorrad.de. Archived from the original on 17 July 2013. Retrieved 5 August 2013.
+^ Klawsuc, Phil. "The W Files". Ann O'Rack Productions. Retrieved 7 August 2013.
+^ Cholot, Jean Jacques (30 November 2010). "Kawasaki: de la Meguro à la W 800: histoire et images". Caradisiac (in French). Car & Boat Media. Retrieved 3 August 2013.
+^ Scheibe, Winni. "Kawasaki W1 und W2 Modellgeschichte". "Winni"-Scheibe.com (in German). Winfried "Winni" Scheibe. Retrieved 5 August 2013.
+^ Edwards, David (1 November 2009). "Retro Bike Hall of Fame". Cycle World. Retrieved 10 August 2013. The first modern retro bike? Probably the Honda GB500, which first saw the light of day in 1989 but was obviously inspired by the great British Singles of the 1950s.
+^ "Kawasaki Zephyr". 240 Landmarks of Japanese Automotive Technology. Society of Automotive Engineers of Japan, Inc. Retrieved 10 August 2013. The Kawasaki Zephyr was developed at that time to be a machine that would be easy to use and enjoyable for everyone. The model became a trend-setter for the 'naked bike' boom of the 1990s.
+^ Kunz, Dave (7 July 2013). "Retro-style motorcycles combine best of old, new". KABC-TV/DT. Retrieved 10 August 2013. There are two primary audiences for the retro-style bikes: those who might have had one back in the day and would like to have another, and then there are people who weren't around back in the day who love the early '70s style.
+^ "History". Kawasaki W650 World. Kawasaki W650 Enthusiasts' Group. Archived from the original on 21 August 2013. Retrieved 3 August 2013.
+^ Hedge, Trevor (2011). "Kawasaki W800 Reviewed and Tested". mcnews.com.au. Archived from the original on 11 May 2013. Retrieved 8 August 2013. In 2011, thanks to a 5mm larger bore, Kawasaki have reinvented their machine and the W650 has grown to become the W800 and this time around Triumph should definitely sit up and take notice.
+^ Edge, Dirck (25 January 2011). "Kawasaki W800 Cafe Style Available in Japan". MotorcycleDaily.com. Motorcycle Daily. Retrieved 10 August 2013. Pictured is the W800 Café Style, which has been announced for the Japanese market. Don’t hold your breath waiting for this bike to be available in the U.S., but we can admire it from afar.
+External links[edit]
+"Kawasaki Motorcycle History 1952-2006" (PDF). P/N 99941-1406 ALL-E. Kawasaki Heavy Industries, Ltd. 18 June 2007.
+"Kawasaki Motorcycle History 1952-2002" (PDF). P/N 99941-1376 ALL-E. Kawasaki Heavy Industries, Ltd. 22 October 2002.
+"Kawasaki Motorcycle History 1952-2002" (PDF). P/N 99941-1376 ALL-E. Kawasaki Heavy Industries, Ltd. 22 October 2002. (Alternate site)
+Merguro and Kawasaki motorcycle photos (in Japanese)
+1966 Kawasaki W1 650 photos
+1966 Kawasaki W1 650 at the National Motorcycle Museum of Australia
+1967 Kawasaki W1 650 photos
+Categories: Kawasaki motorcyclesMotorcycles introduced in 1966Motorcycles powered by straight-twin engines
+Not logged in
+Talk
+Contributions
+Create account
+Log in
+Article
+Talk
+Read
+Edit
+View history
+Search
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Donate
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Tools
+What links here
+Related changes
+Special pages
+Permanent link
+Page information
+Cite this page
+Wikidata item
+Print/export
+Download as PDF
+Printable version
+Languages
+日本語
+Edit links
+This page was last edited on 26 September 2021, at 09:22 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Mobile view
+Developers
+Statistics
+Cookie statement
